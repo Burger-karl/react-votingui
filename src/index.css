@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Playfair Display", serif;
+  --font-body: "Inter", sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+}
