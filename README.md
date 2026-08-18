@@ -1,4 +1,4 @@
-# Live URL: https://vercel.com/burgerkarls-projects/react-votingui
+# Live URL: https://react-votingui.vercel.app/
 
 # React + TypeScript + Vite
 
